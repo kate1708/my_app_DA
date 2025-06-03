@@ -1,0 +1,13 @@
+streamlit
+requirements.txt
+Edit
+View
+pandas matplotlib
+seaborn
+numpy
+altair
+plotly
+scikit-learn
+openpyx1 streamlit-extras
+streamlit-elements
+streamlit-shaden-ui
